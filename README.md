@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, seja bem vindo(a) ao meu perfil 💻
 
-<!--
-**Yago0805/Yago0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Yago Bispo
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo essse espaço para entender melhor como começar minha carreira, compartilhando os meus projetos e me organizando. Procurando melhorar sempre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Entre em contato comigo 📫
+
+  yagobispoprofissional@gmail.com
+  
+  @yagobiispo
+
+![](  https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)
